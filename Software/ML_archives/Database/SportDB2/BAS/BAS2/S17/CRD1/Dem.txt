@@ -1,0 +1,2 @@
+Sex	Age	Weight	Height	Smoker	Alcohol	Training_Rate	Coffe6h	Alcohol24h	Disease	Diatery_supplement_pre_workout	Diatery_supplement_post_workout
+0	34	120	186	0	0	1	NA	NA	Tumors, Brain aneurysm, knee prosthesis	NA	NA

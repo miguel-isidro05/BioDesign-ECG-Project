@@ -1,0 +1,3 @@
+resting	19:31:36
+recovery0	19:55:07
+recovery5	20:00:44

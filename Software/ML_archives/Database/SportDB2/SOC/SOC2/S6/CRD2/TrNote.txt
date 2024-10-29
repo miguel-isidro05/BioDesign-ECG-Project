@@ -1,0 +1,4 @@
+resting	19:53:00
+training	
+recovery5	21:26:00
+recovery15	21:37:00

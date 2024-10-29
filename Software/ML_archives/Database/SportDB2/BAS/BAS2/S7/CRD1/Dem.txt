@@ -1,0 +1,2 @@
+Sex	Age	Weight	Height	Smoker	Alcohol	Training_Rate	Coffe6h	Alcohol24h	Disease	Diatery_supplement_pre_workout	Diatery_supplement_post_workout
+1	23	69	181	0	1	4	NA	NA	0	NA	NA

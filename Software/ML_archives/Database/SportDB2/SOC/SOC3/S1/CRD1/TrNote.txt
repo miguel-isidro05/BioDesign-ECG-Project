@@ -1,0 +1,7 @@
+Resting: from 00:00:00 to 00:06:00
+I Phase: from 00:06:00 to 00:16:00
+II Phase: from 00:16:00 to 00:31:00
+III Phase: from 00:31:00 to 00:31:00
+IV Phase: from 00:31:00 to 01:06:00
+Recovery: from 01:06:00 to 01:18:00
+

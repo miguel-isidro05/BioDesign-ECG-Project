@@ -1,0 +1,5 @@
+﻿Resting : from 00:00:00 to 00:11:19
+Exercise : from 00:11:19 to 01:19:27
+Recovery : from 01:19:27 to 01:25:02
+
+
